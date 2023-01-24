@@ -1,0 +1,42 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "MacBook Air",
+      "price": 900,
+      "image": "assets/images/sneakers.jpg",
+      "configure": {
+        "chip": "M1",
+        "ssd": "256 GB",
+        "memory": "16 gb",
+        "display": "Retina"
+      }
+    },
+    {
+      "id": 2,
+      "title": "MacBook pro",
+      "price": 1100,
+      "image": "assets/images/sneakers.jpg",
+      "configure": {
+        "chip": "M2",
+        "ssd": "512 GB",
+        "memory": "16 gb",
+        "display": "Retina"
+      }
+    },
+    {
+      "id": 3,
+      "title": "MacBook pro 2",
+      "price": 1300,
+      "image": "assets/images/sneakers.jpg",
+      "configure": {
+        "chip": "M2+",
+        "ssd": "512 GB",
+        "memory": "24 gb",
+        "display": "Retina"
+      }
+    }
+  ]
+
+
+}

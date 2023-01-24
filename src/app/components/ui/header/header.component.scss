@@ -1,0 +1,19 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+.no-select{
+cursor: pointer;
+  user-select: none;
+}
+.header{
+  &__toolbar{
+    display: flex;
+    align-items: center;
+  }
+  &__icon{
+    margin: 0 5px;
+  }
+  &__button:not(:first-child){
+    margin-left: 5px;
+  }
+}
