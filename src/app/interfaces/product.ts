@@ -1,8 +1,9 @@
 export interface Product {
-  id: number,
+  id?: number,
   title: string,
   price: number,
-  image: string,
+  year: string,
+  image?: string,
   configure: ProductConfig
 }
 

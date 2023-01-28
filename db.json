@@ -4,6 +4,7 @@
       "id": 1,
       "title": "MacBook Air",
       "price": 900,
+      "year": "2020",
       "image": "assets/images/sneakers.jpg",
       "configure": {
         "chip": "M1",
@@ -16,6 +17,7 @@
       "id": 2,
       "title": "MacBook pro",
       "price": 1100,
+      "year": "2021",
       "image": "assets/images/sneakers.jpg",
       "configure": {
         "chip": "M2",
@@ -28,6 +30,7 @@
       "id": 3,
       "title": "MacBook pro 2",
       "price": 1300,
+      "year": "2022",
       "image": "assets/images/sneakers.jpg",
       "configure": {
         "chip": "M2+",
@@ -35,8 +38,117 @@
         "memory": "24 gb",
         "display": "Retina"
       }
+    },
+    {
+      "id": 4
+    },
+    {
+      "title": "1234",
+      "price": "1234",
+      "chip": "1234",
+      "year": "1234",
+      "configure": {
+        "ssd": "1234",
+        "memory": "1234",
+        "display": "1234"
+      },
+      "id": 5
+    },
+    {
+      "title": "sdf",
+      "price": "sdf",
+      "chip": "sdf",
+      "year": "sdf",
+      "configure": {
+        "ssd": "sdf",
+        "memory": "sdf",
+        "display": "sdf"
+      },
+      "id": 6
+    },
+    {
+      "title": "1",
+      "price": "1",
+      "chip": "1",
+      "year": "1",
+      "configure": {
+        "ssd": "1",
+        "memory": "1",
+        "display": "1"
+      },
+      "id": 7
+    },
+    {
+      "title": "1",
+      "price": "123",
+      "chip": "213",
+      "year": "22",
+      "configure": {
+        "ssd": "22",
+        "memory": "33",
+        "display": "1"
+      },
+      "id": 8
+    },
+    {
+      "title": "123",
+      "price": "123",
+      "year": "213",
+      "configure": {
+        "chip": "123",
+        "ssd": "123",
+        "memory": "123",
+        "display": "123"
+      },
+      "id": 9
+    },
+    {
+      "title": "aa",
+      "price": "ss",
+      "year": "ff",
+      "configure": {
+        "chip": "dd",
+        "ssd": "gg",
+        "memory": "hh",
+        "display": "jj"
+      },
+      "id": 10
+    },
+    {
+      "title": "as",
+      "price": "sad",
+      "year": "dsa",
+      "configure": {
+        "chip": "fas",
+        "ssd": "sad",
+        "memory": "dsa",
+        "display": "asd"
+      },
+      "id": 11
+    },
+    {
+      "title": "вап",
+      "price": "23",
+      "year": "ыв",
+      "configure": {
+        "chip": "ыва",
+        "ssd": "ыва",
+        "memory": "ыва",
+        "display": "21"
+      },
+      "id": 12
+    },
+    {
+      "title": "123",
+      "price": "123",
+      "year": "123",
+      "configure": {
+        "chip": "123",
+        "ssd": "123",
+        "memory": "123",
+        "display": "123"
+      },
+      "id": 13
     }
   ]
-
-
 }

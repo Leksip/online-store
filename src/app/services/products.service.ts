@@ -21,4 +21,8 @@ export class ProductsService {
   getProduct(id: number) {
     return this.http.get<Product>(`${this.url}/${id}`);
   }
+
+  postProduct(product: Product) {
+    return this.http.post(this.url, product);
+  }
 }
